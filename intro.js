@@ -40,3 +40,5 @@ function fun(){
 
 
 
+//push dump code§ to
+//push function asdfghjkl generated
